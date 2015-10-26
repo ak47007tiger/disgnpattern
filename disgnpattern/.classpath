@@ -4,8 +4,6 @@
 	<classpathentry kind="src" path="src/action"/>
 	<classpathentry kind="src" path="src/create"/>
 	<classpathentry kind="src" path="src/struct"/>
-	<classpathentry kind="src" path="src/mul"/>
-	<classpathentry kind="src" path="src/pool"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
